@@ -122,6 +122,26 @@ TypeScript gives us flexibility. If we need to just describing an object, interf
 
 ---
 
+### 5. What is type inference in TypeScript? Why is it helpful?
+
+#### What is type inference in TypeScript?
+
+Type inference in Typescript defines the assuming or guessing types power of typescript. It's a very helpful feature of typescript. Let's know about it:
+
+- Type inference represents the implicit types assuming power of typescript.
+- We have not always define explicit type because of the type inference feature.
+- Type inference enables typeScript to automatically infer the types of variables, function parameters etc.
+
+#### Why is it helpful?
+
+- It reduces the amount of explicit type that we have to write.
+- It makes our code more concise and readable.
+- Type Inference gives us more flexible and clean code .
+
+---
+
+---
+
 ### 7. Provide an example of using union and intersection types in TypeScript.
 
 #### Example Of Union Types:
